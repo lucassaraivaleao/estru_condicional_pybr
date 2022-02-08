@@ -1,2 +1,2 @@
-# estru_condicional_pybr
-Resolução da lista de exercícíos da Python Brasil - Estrutura Condicional
+# Lista de Exercícios - Python Brasil
+Resolução da lista de exercícíos da Python Brasil - [Estrutura Condicional](https://wiki.python.org.br/EstruturaDeDecisao)
